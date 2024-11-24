@@ -1,12 +1,8 @@
-
-import './App.css';
-
+import FormLogin from "./page/FormLogin"
 function App() {
 
   return (
-    <div className="wrapper">
-      React + Vite
-    </div>
+    <FormLogin/>
   )
 }
 
